@@ -8,4 +8,4 @@ resources:
 images:
 - name: webserver
   newName: ffelipelimao/gitops
-  newTag: tyg
+  newTag: baaea8fdded8def690edd956eb94eda5d55ff273
